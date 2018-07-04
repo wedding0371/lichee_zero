@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/stmicro/stmmac/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o drivers/net/ethernet/stmicro/stmmac/built-in.o drivers/net/ethernet/stmicro/stmmac/stmmac.o drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o drivers/net/ethernet/stmicro/stmmac/dwmac-sunxi.o drivers/net/ethernet/stmicro/stmmac/dwmac-generic.o 

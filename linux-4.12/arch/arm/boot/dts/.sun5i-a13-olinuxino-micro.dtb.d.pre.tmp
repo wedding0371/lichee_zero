@@ -1,0 +1,10 @@
+sun5i-a13-olinuxino-micro.o: \
+ arch/arm/boot/dts/sun5i-a13-olinuxino-micro.dts \
+ arch/arm/boot/dts/sun5i-a13.dtsi arch/arm/boot/dts/skeleton.dtsi \
+ arch/arm/boot/dts/sun5i.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/clock/sun5i-ccu.h \
+ arch/arm/boot/dts/include/dt-bindings/dma/sun4i-a10.h \
+ arch/arm/boot/dts/include/dt-bindings/reset/sun5i-ccu.h \
+ arch/arm/boot/dts/include/dt-bindings/thermal/thermal.h \
+ arch/arm/boot/dts/sunxi-common-regulators.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h

@@ -1,0 +1,9 @@
+sun6i-a31-i7.o: arch/arm/boot/dts/sun6i-a31-i7.dts \
+ arch/arm/boot/dts/sun6i-a31.dtsi arch/arm/boot/dts/skeleton.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/boot/dts/include/dt-bindings/thermal/thermal.h \
+ arch/arm/boot/dts/include/dt-bindings/clock/sun6i-a31-ccu.h \
+ arch/arm/boot/dts/include/dt-bindings/reset/sun6i-a31-ccu.h \
+ arch/arm/boot/dts/sunxi-common-regulators.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h

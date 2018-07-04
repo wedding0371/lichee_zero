@@ -1,0 +1,2 @@
+kernel/drivers/net/ethernet/allwinner/sun4i-emac.ko
+kernel/drivers/net/ethernet/allwinner/sun8i-emac.ko

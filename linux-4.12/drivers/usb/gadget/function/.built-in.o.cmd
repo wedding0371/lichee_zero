@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o drivers/usb/gadget/function/built-in.o drivers/usb/gadget/function/usb_f_acm.o drivers/usb/gadget/function/u_serial.o drivers/usb/gadget/function/u_ether.o drivers/usb/gadget/function/usb_f_ecm.o 

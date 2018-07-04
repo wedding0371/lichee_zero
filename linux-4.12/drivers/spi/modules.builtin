@@ -1,0 +1,2 @@
+kernel/drivers/spi/spi-sun4i.ko
+kernel/drivers/spi/spi-sun6i.ko

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/sunxi-ss/sun4i-ss.o := arm-linux-gnueabihf-ld -EL    -r -o drivers/crypto/sunxi-ss/sun4i-ss.o drivers/crypto/sunxi-ss/sun4i-ss-core.o drivers/crypto/sunxi-ss/sun4i-ss-hash.o drivers/crypto/sunxi-ss/sun4i-ss-cipher.o 

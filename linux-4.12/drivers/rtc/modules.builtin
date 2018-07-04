@@ -1,0 +1,2 @@
+kernel/drivers/rtc/rtc-ac100.ko
+kernel/drivers/rtc/rtc-sunxi.ko
